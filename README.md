@@ -1,6 +1,6 @@
 # Chest Disease Detection and Classification Using AI
 
-This repository contains my completed guided project from Coursera's "AI-Powered Chest Disease Detection and Classification". The project utilizes deep learning techniques to detect and classify various chest diseases from X-ray images.
+The project utilizes deep learning techniques to detect and classify various chest diseases from X-ray images.
 
 ## Project Overview
 
@@ -38,8 +38,3 @@ The results of the model, including accuracy, precision, recall, and F1-score, a
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
-## Acknowledgements
-
-- Coursera for providing the guided project.
-- The open-source community for providing the tools and libraries used in this project.
